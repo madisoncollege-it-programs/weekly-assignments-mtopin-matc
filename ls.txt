@@ -1,0 +1,7 @@
+filetorevert.txt
+gitlogafter.txt
+gitlogbefore.txt
+gitreset.txt
+ls.txt
+README.md
+week2
